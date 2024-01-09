@@ -1,22 +1,22 @@
 export const soon = {
-  title: "Come Back Later...",
+  title: "Daha sonra gel...",
   body: `<br />
-    <h1>Hi, you come to early</h1>
+    <h1>Merhaba, erken geldin</h1>
     <br /><br /><br />
     <p>
-        I know this page is very interesting for you, especially for your special day but.<br />
-        You need to be patience until the time has come, right ?
+        Bu sayfanın sizin için özellikle özel gününüz için çok ilgi çekici olduğunu biliyorum ama.<br />
+         Zamanı gelene kadar sabırlı olmanız gerekiyor değil mi?
     </p>`,
 };
 
 export const late = {
-  title: "See you next time...",
+  title: "Bir dahaki sefere görüşürüz...",
   body: `<br />
-    <h1>The party was over</h1>
+    <h1>Parti bitmişti</h1>
     <br /><br /><br />
     <p>
-        Yes, my gift for you is kinda simple, cheap, and weird ? &#128534<br>
-        B-but. It's only for you. &#128150
+        Evet, sana hediyem biraz basit, ucuz ve tuhaf mı? &#128534<br>
+         B-ama. Bu sadece senin için. &#128150
     </p>
 `,
 };
